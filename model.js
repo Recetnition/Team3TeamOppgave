@@ -3,7 +3,7 @@ const taskProgress = {
     NOTSTARTED: 0,
     STARTED: 1,
     FINISHED: 2,
-}
+}ds
 
 
 
